@@ -46,3 +46,19 @@ print(path)
 print('The path from vertex "c" to vertex "c":')
 path = find_path(graph,"c", "c")
 print(path)
+
+########################################################################
+###runfile('C:/Users/LENOVO/Desktop/JBIC/graph2.py', wdir='C:/Users/LENOVO/Desktop/JBIC')
+##['d', 'a', 'c']
+###The path from vertex "a" to vertex "b":
+###['a', 'c', 'e', 'b']
+##The path from vertex "a" to vertex "f":
+###['a', 'c', 'e']
+##The path from vertex "a" to vertex "f":
+###None
+###The path from vertex "a" to vertex "d":
+###['a', 'c', 'e', 'b', 'd']
+###The path from vertex "c" to vertex "c":
+###['c']
+##########################################################################################
+
