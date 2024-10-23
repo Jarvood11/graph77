@@ -1,5 +1,5 @@
 # Python 3.9.5 (default, May 11 2021, 07:48:02)
-# [GCC 10.3.0] on linux
+# [GCC 10.3.0] on linux  https://pycomp.vercel.app/
 # Type "help", "copyright", "credits" or "license" for more information.
 graph = { "a" : ["c"],
           "b" : ["c", "e"],
